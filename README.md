@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ritik Ranjan</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ritik1312&label=Profile%20views&color=0e75b6&style=flat" alt="ritik1312" /> </p>
-
 - 👀 I’m interested in **Data Analysis, Machine Learning, NLP, Data Visualisation**
 
 - 🌱 I’m currently learning **Big Data Techs and DevOps**
