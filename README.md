@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ritik Ranjan</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-- 👀 I’m interested in **Data Analysis, Machine Learning, NLP, Data Visualisation**
+- 👀 I’m interested in **Big Data Analysis, Machine Learning, NLP, Data Visualisation**
+
+- 👨🏽‍💻 I've worked on backend in **Web application development using Flask/FastApi**
 
 - 🌱 I’m currently learning **Big Data Techs and DevOps**
 
