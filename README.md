@@ -9,12 +9,7 @@
 
 - 📫 How to reach me **1312.ritik@gmail.com**
 
-<h3 align="left">My Profiles:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ritik-ranjan-04178718b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritik-ranjan-04178718b" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/ritik1312" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ritik1312" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ritik1312" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ritik1312" height="30" width="40" /></a>
-</p>
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=ritik1312&animated=true)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -37,6 +32,13 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
+</p>
+
+<h3 align="left">My Profiles:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ritik-ranjan-04178718b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritik-ranjan-04178718b" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/ritik1312" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ritik1312" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ritik1312" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ritik1312" height="30" width="40" /></a>
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritik1312&show_icons=true&locale=en&layout=compact" alt="ritik1312" /></p>
